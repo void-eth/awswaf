@@ -178,7 +178,7 @@ api_key=YOUR_API_KEY" | jq .
 
 | | |
 |---|---|
-| 💬 **Telegram** | [@maker69](https://t.me/maker69) |
+| 💬 **Telegram** | [@void_ether](https://t.me/void_ether) |
 | 💰 **Payment** | Crypto (USDT, BTC, ETH, LTC) |
 | ⚡ **Delivery** | API key delivered instantly after payment |
 
@@ -186,7 +186,7 @@ api_key=YOUR_API_KEY" | jq .
 
 ## 🛒 How to Get Started
 
-1. 💬 **Message us** on Telegram [@maker69](https://t.me/maker69)
+1. 💬 **Message us** on Telegram [@void_ether](https://t.me/void_ether)
 2. 💳 **Send payment** (minimum $5.00 for 50 solves)
 3. 🔑 **Receive your API key** instantly
 4. 🚀 **Start solving** — integrate with one line of code
