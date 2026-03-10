@@ -223,6 +223,6 @@ api_key=YOUR_API_KEY" | jq .
 
 ---
 
-*© 2025 Captcha Solver API. All rights reserved.*
+*© 2026 Captcha Solver API. All rights reserved.*
 
 </div>
